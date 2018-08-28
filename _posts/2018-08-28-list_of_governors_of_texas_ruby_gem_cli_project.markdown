@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "List of Governors of Texas : Ruby Gem CLI Project"
-date:       2018-08-28 22:47:08 +0000
+date:       2018-08-28 18:47:08 -0400
 permalink:  list_of_governors_of_texas_ruby_gem_cli_project
 ---
 
