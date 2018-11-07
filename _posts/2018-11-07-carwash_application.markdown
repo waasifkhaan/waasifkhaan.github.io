@@ -30,7 +30,7 @@ scope :uncommented, -> { where(user_comment: [nil, '']) }
 The new carwash instance is made with the user selecting the detailer based on their rating and the cost offered for the carwash. The cost is fixed now but down the road the detilaer will have the option to change it. The car is seleted from a radio button and then the app takes you to the show page where user can rate the carwash and leave a comment. All the carwashes are available in the history and available any time if the user may desire to look at them . 
 
 I hope you found this blog informative and if you are interested in having a look at the code please go to the following
-[https://github.com/waasifkhaan/CarWashApplink]
+[ link](https://github.com/waasifkhaan/CarWashApp).
 
 
 
